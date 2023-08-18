@@ -1,0 +1,20 @@
+h1,h2{
+    color : lightcoral;
+}
+
+#fruits-title{
+    color: black;
+}
+
+/* .important-places{
+    color:blueviolet;
+} */
+
+
+.fruits-container{
+    color: tomato;
+}
+
+#place-container{
+   text-align: center;
+}
